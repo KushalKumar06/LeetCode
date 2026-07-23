@@ -24,16 +24,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KushalKumar06/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KushalKumar06/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KushalKumar06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KushalKumar06/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KushalKumar06/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KushalKumar06/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
