@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KushalKumar06/LeetCode/tree/master/0079-word-search) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KushalKumar06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KushalKumar06/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/KushalKumar06/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KushalKumar06/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KushalKumar06/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KushalKumar06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KushalKumar06/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KushalKumar06/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KushalKumar06/LeetCode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KushalKumar06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/KushalKumar06/LeetCode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KushalKumar06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KushalKumar06/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
