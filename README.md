@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KushalKumar06/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/KushalKumar06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KushalKumar06/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/KushalKumar06/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/KushalKumar06/LeetCode/tree/master/0056-merge-intervals) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KushalKumar06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/KushalKumar06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/KushalKumar06/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/KushalKumar06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/KushalKumar06/LeetCode/tree/master/0567-permutation-in-string) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KushalKumar06/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KushalKumar06/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
