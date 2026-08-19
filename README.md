@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KushalKumar06/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KushalKumar06/LeetCode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/KushalKumar06/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KushalKumar06/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KushalKumar06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/KushalKumar06/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/KushalKumar06/LeetCode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/KushalKumar06/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KushalKumar06/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
