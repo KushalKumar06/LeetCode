@@ -4,7 +4,7 @@ public:
         int idx = 0;
         int n = chars.size();
 
-        for(int i = 0 ;i<n ;i++){
+        for(int i = 0 ; i<n ;i++){
             char ch = chars[i];
             int count = 0;
 
@@ -12,19 +12,17 @@ public:
                 count++;
                 i++;
             }
-
             if(count == 1)
             chars[idx++] = ch;
-
             else{
                 chars[idx++] = ch;
-                 string str = to_string(count);
-                for(char dig : str){
+                string str = to_string(count);
+                for(char dig: str){
                     chars[idx++] = dig;
                 }
             }
             i--;
         }
-        return idx; // or chars.size();
+        return idx;
     }
 };
