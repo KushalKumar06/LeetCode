@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KushalKumar06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KushalKumar06/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KushalKumar06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/KushalKumar06/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/KushalKumar06/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KushalKumar06/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/KushalKumar06/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KushalKumar06/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KushalKumar06/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KushalKumar06/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KushalKumar06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/KushalKumar06/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KushalKumar06/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KushalKumar06/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KushalKumar06/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/KushalKumar06/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
