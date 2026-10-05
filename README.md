@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/KushalKumar06/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KushalKumar06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/KushalKumar06/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/KushalKumar06/LeetCode/tree/master/0886-score-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KushalKumar06/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KushalKumar06/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/KushalKumar06/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/KushalKumar06/LeetCode/tree/master/0886-score-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KushalKumar06/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KushalKumar06/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KushalKumar06/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/KushalKumar06/LeetCode/tree/master/0886-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
