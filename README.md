@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/KushalKumar06/LeetCode/tree/master/0948-sort-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KushalKumar06/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/KushalKumar06/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KushalKumar06/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -303,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KushalKumar06/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KushalKumar06/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
