@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/KushalKumar06/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KushalKumar06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KushalKumar06/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalKumar06/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KushalKumar06/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KushalKumar06/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KushalKumar06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/KushalKumar06/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalKumar06/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KushalKumar06/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/KushalKumar06/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KushalKumar06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KushalKumar06/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalKumar06/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KushalKumar06/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KushalKumar06/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/KushalKumar06/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/KushalKumar06/LeetCode/tree/master/0948-sort-an-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalKumar06/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KushalKumar06/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/KushalKumar06/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KushalKumar06/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/KushalKumar06/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/KushalKumar06/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/KushalKumar06/LeetCode/tree/master/0886-score-of-parentheses) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalKumar06/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/KushalKumar06/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/KushalKumar06/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/KushalKumar06/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KushalKumar06/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalKumar06/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
