@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/KushalKumar06/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/KushalKumar06/LeetCode/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalKumar06/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KushalKumar06/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/KushalKumar06/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KushalKumar06/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/KushalKumar06/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KushalKumar06/LeetCode/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KushalKumar06/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/KushalKumar06/LeetCode/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/KushalKumar06/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KushalKumar06/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
