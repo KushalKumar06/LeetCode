@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/KushalKumar06/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KushalKumar06/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KushalKumar06/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KushalKumar06/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KushalKumar06/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KushalKumar06/LeetCode/tree/master/0050-powx-n) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KushalKumar06/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
