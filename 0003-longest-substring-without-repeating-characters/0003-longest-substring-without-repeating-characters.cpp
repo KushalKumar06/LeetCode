@@ -26,7 +26,7 @@ public:
 
         if(s.size() == 0)
         return 0;
-        f
+        
         return res;
     }
 };
